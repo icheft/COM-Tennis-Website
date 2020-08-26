@@ -1,24 +1,24 @@
-- name: Leo
-  title: AS
-  quote: Excellent Book! Add your team review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. 
-  image: profile-1.png
+- name: Derek 盧德原
+  title: 資管二，COM Tennis 第七屆隊員
+  quote: 院網超好玩的！
+  image: dereklu.jpg
   hero: true
   active: true
-- name: Derek
-  title: CL
-  quote: Great Book! Add your book review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. Praesent mauris neque.
-  image: profile-2.png
+- name: Brian 陳立軒
+  title: 資管二，COM Tennis 第八屆隊長
+  quote: 院網是一個能夠讓你打球的同時，認識其他管院朋友的好地方。教練人也超好的，如果例練後有在自己額外花時間練習，進步會很快。
+  image: brian.jpeg
   hero: true
-- name: Brian
-  title: IM
-  quote: Awesome Book! Add your book review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. Praesent mauris neque.
-  image: profile-3.png
+- name: 匿名
+  title: 系級，在球隊的時間 / 職位
+  quote: 經驗分享區
+  image: anonymous.jpeg
   hero: true
-- name: Brian
-  title: IM
-  quote: Terrific Book! Add your book review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. Praesent mauris neque.
-  image: profile-4.png
-- name: Brian
-  title: IM
-  quote: Fantastic Book! Add your book review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. Praesent mauris neque.
-  image: profile-5.png
+- name: 匿名
+  title: 系級，在球隊的時間 / 職位
+  quote: 經驗分享區
+  image: anonymous.jpeg
+- name: 匿名
+  title: 系級，在球隊的時間 / 職位
+  quote: 經驗分享區
+  image: anonymous.jpeg

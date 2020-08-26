@@ -9,49 +9,42 @@
 - name: 黃郁蓁
   job: 副隊長
   major: 會計二
-  image: brian.jpg
+  image: anonymous.jpeg
   social:
-    - { name: "facebook", link: "https://plus.google.com/+DawidOstrowski/" }
-    - { name: "instagram", link: "https://plus.google.com/+DawidOstrowski/" }
+    
 - name: 林立恩
-  job: 教學長
+  job: 教學
   major: 國企二
-  image: brian.jpg
+  image: anonymous.jpeg
   social:
-    - { name: "facebook", link: "https://plus.google.com/+DawidOstrowski/" }
-    - { name: "instagram", link: "https://plus.google.com/+DawidOstrowski/" }
+    
 - name: 盧繹安
   job: 場器
   major: 會計所一
-  image: brian.jpg
+  image: anonymous.jpeg
   social:
-    - { name: "facebook", link: "https://plus.google.com/+DawidOstrowski/" }
-    - { name: "instagram", link: "https://plus.google.com/+DawidOstrowski/" }
+    
 - name: 黃振維
   job: 場器
   major: 會計四
-  image: brian.jpg
+  image: anonymous.jpeg
   social:
-    - { name: "facebook", link: "https://plus.google.com/+DawidOstrowski/" }
-    - { name: "instagram", link: "https://plus.google.com/+DawidOstrowski/" }
+    
 - name: 郭芷伶
   job: 活動
   major: 會計二
   image: gzl.jpeg
   social:
-    - { name: "facebook", link: "https://plus.google.com/+DawidOstrowski/" }
-    - { name: "instagram", link: "https://plus.google.com/+DawidOstrowski/" }
+    
 - name: Lars 蕭溙辰
   job: 活動
   major: 心理二
   image: lars.jpeg
   social:
-    - { name: "facebook", link: "https://plus.google.com/+DawidOstrowski/" }
-    - { name: "instagram", link: "https://plus.google.com/+DawidOstrowski/" }
+    - { name: "facebook", link: "https://m.facebook.com/lars.hsiao" }
 - name: 劉睿哲
   job: 財務
   major: 國企二
-  image: brian.jpg
+  image: anonymous.jpeg
   social:
-    - { name: "facebook", link: "https://plus.google.com/+DawidOstrowski/" }
-    - { name: "instagram", link: "https://plus.google.com/+DawidOstrowski/" }
+    
