@@ -1,6 +1,19 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+### General ###
+*.lock
+archive
 
+### Jekyll ###
+_site/
+_draft/
+.jekyll-cache/
+
+### Sass ###
+.sass-cache
+
+### mac ###
+.vscode
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
