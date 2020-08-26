@@ -1,9 +1,8 @@
 /*
 Error: Undefined variable: "$theme-text-color-secondary".
-        on line 8 of /Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/theme/_base.scss
+        on line 9 of /Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/theme/_base.scss
         from line 10 of /Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/./theme/styles.scss
 
-3:  * Version: 1.1
 4:  * Author: Xiaoying Riley
 5:  * Copyright: 3rd Wave Media Ltd.
 6:  * Website: http://themes.3rdwavemedia.com/
@@ -12,9 +11,10 @@ Error: Undefined variable: "$theme-text-color-secondary".
 9: @import "mixins";
 10: @import "base";
 11: @import "landing";
+12: @import "speakers";
 
 Backtrace:
-/Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/theme/_base.scss:8
+/Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/theme/_base.scss:9
 /Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/./theme/styles.scss:10
 /Library/Ruby/Gems/2.6.0/gems/sass-3.4.25/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Library/Ruby/Gems/2.6.0/gems/sass-3.4.25/lib/sass/script/tree/node.rb:58:in `perform'
@@ -95,4 +95,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$theme-text-color-secondary\".\A         on line 8 of /Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/theme/_base.scss\A         from line 10 of /Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/./theme/styles.scss\A \A 3:  * Version: 1.1\A 4:  * Author: Xiaoying Riley\A 5:  * Copyright: 3rd Wave Media Ltd.\A 6:  * Website: http://themes.3rdwavemedia.com/\A 7:  * Twitter: @3rdwave_themes\A 8: */\A 9: @import \"mixins\";\A 10: @import \"base\";\A 11: @import \"landing\";"; }
+  content: "Error: Undefined variable: \"$theme-text-color-secondary\".\A         on line 9 of /Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/theme/_base.scss\A         from line 10 of /Users/brian/Cloud/Google Drive - National Taiwan University/Projects/02 - Side Projects/COM-Tennis-Website/DevBook/_sass/./theme/styles.scss\A \A 4:  * Author: Xiaoying Riley\A 5:  * Copyright: 3rd Wave Media Ltd.\A 6:  * Website: http://themes.3rdwavemedia.com/\A 7:  * Twitter: @3rdwave_themes\A 8: */\A 9: @import \"mixins\";\A 10: @import \"base\";\A 11: @import \"landing\";\A 12: @import \"speakers\";"; }

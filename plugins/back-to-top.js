@@ -13,7 +13,7 @@ var scrolltotop={
 	controlHTML: '<i class="fas fa-chevron-up"></i>', //Updated to work with FontAwesome 5
 	
 	
-	controlattrs: {offsetx:5, offsety:5}, //offset of control relative to right/ bottom of window corner
+	controlattrs: {offsetx:15, offsety:15}, //offset of control relative to right/ bottom of window corner
 	anchorkeyword: '#top', //Enter href value of HTML anchors on the page that should also act as "Scroll Up" links
 
 	state: {isvisible:false, shouldvisible:false},

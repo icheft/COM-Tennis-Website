@@ -1,0 +1,24 @@
+- name: Leo
+  title: AS
+  quote: Excellent Book! Add your team review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. 
+  image: profile-1.png
+  hero: true
+  active: true
+- name: Derek
+  title: CL
+  quote: Great Book! Add your book review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. Praesent mauris neque.
+  image: profile-2.png
+  hero: true
+- name: Brian
+  title: IM
+  quote: Awesome Book! Add your book review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. Praesent mauris neque.
+  image: profile-3.png
+  hero: true
+- name: Brian
+  title: IM
+  quote: Terrific Book! Add your book review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. Praesent mauris neque.
+  image: profile-4.png
+- name: Brian
+  title: IM
+  quote: Fantastic Book! Add your book review here consectetur adipiscing elit. Aliquam euismod nunc porta urna facilisis tempor. Praesent mauris neque.
+  image: profile-5.png

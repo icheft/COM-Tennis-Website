@@ -1,0 +1,27 @@
+- name: "無須基礎"
+  description: "加入院網無需任何基礎，我們會從頭開始教起！就算是連球拍都不曾拿過的人也可以在一年之後與其他人對打唷！"
+  icon: fa fa-smile-wink
+- name: "快樂打球"
+  description: "相對其他系隊，學長姊比較不會兇，溫馨大家庭大家可以愉快地打球。"
+  icon: fa fa-candy-cane
+- name: "認識管院各系朋朋，馬上變夯哥夯姊"
+  description: "不同於其他系隊只有該系成員能夠參加，院網是一個集合管院五個系所的球隊，在這裡能夠認識更多人！"
+  icon: fa fa-grin-stars
+- name: "各種球隊活動"
+  description: "除了每週練球以外，院網還有各種球隊活動，如聖誕趴替、隊遊、野餐日，打球不怕無聊、也不怕交不到朋友"
+  icon: fas fa-theater-masks
+- name: "男女比 1:1"
+  description: "資管的朋友不用再煩惱為什麼男生那麼多，工管、國企、財金、會計的朋朋也可以體驗一下<code>男生 == 女生</code>的感覺唷！"
+  icon: fas fa-user-friends
+- name: "打網球很潮"
+  description: '真的，我們不知道怎麼說服你，不信的話，請看看這個 <a href="https://youtu.be/Bc588DD6xmI" target="_blank">2019 美國網球公開賽好球合集</a>'
+  icon: far fa-hand-peace
+- name: "相較起其他運動，平常更難有機會接觸網球"
+  description: "網球在日常生活中比較少見到，加入院網、不僅可以跟其他志同道合的朋友切磋球技，也會有教練從旁指導，可說是難得的機會！"
+  icon: fas fa-hat-wizard
+- name: "貴族運動，最適合管院以利特"
+  description: '網球和高爾夫球可說是管理學院/商學院最推崇的兩項運動，既然沒有院高，那來院網也不錯呀！<br>文章出處：<a href="https://www.heraldtribune.com/news/20171127/zink-play-golf-and-tennis-to-build-business-relationships" target="_blank">ZINK: Play golf and tennis to build business relationships</a>'
+  icon: fas fa-briefcase
+- name: "等你來發現"
+  description: '更多關於院網的好，等你自己來發現！'
+  icon: fas fa-key

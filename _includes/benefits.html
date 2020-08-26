@@ -1,74 +1,24 @@
 <section id="benefits-section" class="benefits-section theme-bg-light-gradient py-5">
     <div class="container py-5">
-        <h2 class="section-heading text-center mb-3">What Will You Get From This Book?</h2>
-        <div class="section-intro single-col-max mx-auto text-center mb-5">Section intro goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit consequat consequat. Orci varius natoque penatibus et magnis. </div>
+        <h2 class="section-heading text-center mb-3">WHY 為何選擇院網？</h2>
+        <div class="section-intro single-col-max mx-auto text-center mb-5">
+            無論你是想要嘗試新的運動、早已對網球充滿憧憬、或是台大費德勒，只要對網球有一顆誠摯的心，都歡迎加入院網這個大家庭！<br>院網入隊無須任何基礎，強大教練及學長姊會帶你學會紮實網球技巧，變身管院潮潮✨✨✨<br>
+            除了練球外，每學期也都有精彩活動，可以交到來自管院各系的好朋友，讓你不再害怕變成邊緣人！
+        </div>
         <div class="row text-center">
+            {% for item in site.data.benefits %}
             <div class="item col-12 col-md-6 col-lg-4">
                 <div class="item-inner p-3 p-lg-4">
                     <div class="item-header mb-3">
-                        <div class="item-icon"><i class="fas fa-laptop-code"></i></div>
-                        <h3 class="item-heading">Build Lorem Ipsum lobortis nec mauris habitant morbi</h3>
+                        <div class="item-icon"><i class="{{ item.icon }}"></i></div>
+                        <h3 class="item-heading">{{ item.name }}</h3>
                     </div><!--//item-heading-->
                     <div class="item-desc">
-                        List one of your book's benefits here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit consequat consequat. 
+                        {{ item.description }}
                     </div><!--//item-desc-->
                 </div><!--//item-inner-->
             </div><!--//item-->
-            <div class="item col-12 col-md-6 col-lg-4">
-                <div class="item-inner p-3 p-lg-4">
-                    <div class="item-header mb-3">
-                        <div class="item-icon"><i class="fab fa-js-square"></i></div>
-                        <h3 class="item-heading">Learn from lorem ipsum dolor sit amet consectetur</h3>
-                    </div><!--//item-heading-->
-                    <div class="item-desc">
-                        List one of your book's benefits here. Orci varius natoque penatibus et magnis dis parturient montes.
-                    </div><!--//item-desc-->
-                </div><!--//item-inner-->
-            </div><!--//item-->
-            <div class="item col-12 col-md-6 col-lg-4">
-                <div class="item-inner p-3 p-lg-4">
-                    <div class="item-header mb-3">
-                        <div class="item-icon"><i class="fab fa-rocketchat"></i></div>
-                        <h3 class="item-heading">Discover phasellus id egestas tellus maximus</h3>
-                    </div><!--//item-heading-->
-                    <div class="item-desc">
-                        List one of your book's benefits here. Orci varius natoque penatibus et magnis dis parturient montes. 
-                    </div><!--//item-desc-->
-                </div><!--//item-inner-->
-            </div><!--//item-->
-            <div class="item col-12 col-md-6 col-lg-4">
-                <div class="item-inner p-3 p-lg-4">
-                    <div class="item-header mb-3">
-                        <div class="item-icon"><i class="fab fa-angular"></i></div>
-                        <h3 class="item-heading">Master aliquet augue ac ipsum lobortis interdum</h3>
-                    </div><!--//item-heading-->
-                    <div class="item-desc">
-                        List one of your book's benefits here. Orci varius natoque penatibus et magnis dis parturient montes. 
-                    </div><!--//item-desc-->
-                </div><!--//item-inner-->
-            </div><!--//item-->
-            <div class="item col-12 col-md-6 col-lg-4">
-                <div class="item-inner p-3 p-lg-4">
-                    <div class="item-header mb-3">
-                        <div class="item-icon"><i class="fas fa-code-branch"></i></div>
-                        <h3 class="item-heading">Deploy elementum mauris tincidunt tempus sagittis</h3>
-                    </div><!--//item-heading-->
-                    <div class="item-desc">
-                        List one of your book's benefits here. Orci varius natoque penatibus et magnis dis parturient montes. 
-                    </div><!--//item-desc-->
-                </div><!--//item-inner-->
-            </div><!--//item-->
-            <div class="item col-12 col-md-6 col-lg-4">
-                <div class="item-inner p-3 p-lg-4">
-                    <div class="item-header mb-3">
-                        <div class="item-icon"><i class="fas fa-hand-holding-usd"></i></div>
-                        <h3 class="item-heading">Become mattis est et mauris tempus non imperdiet</h3>
-                    </div><!--//item-heading-->
-                    <div class="item-desc">
-                        List one of your book's benefits here. Orci varius natoque penatibus et magnis dis parturient montes. 
-                    </div><!--//item-desc-->
-                </div><!--//item-inner-->
-            </div><!--//item-->
+            {% endfor %}
         </div><!--//row-->
     </div><!--//container-->
 </section><!--//benefits-section-->

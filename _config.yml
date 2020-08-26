@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NTU COM 院網招生網站
-email: your-email@example.com
+title: 2020 NTU COM Tennis 院網招生網站
+email: brian.lxchen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Talk with your racket, play with your heart. 台大管理學院網球隊由一群喜歡網球的管院學生組成，在管院網不但可以學網球、和各系同學切磋球技，每學期還有許多有趣的活動可以參加喔！
 baseurl: "" # the subpath of your site, e.g. /blog
