@@ -9,8 +9,9 @@
 - name: 黃郁蓁
   job: 副隊長
   major: 會計二
-  image: anonymous.jpeg
+  image: zhen.jpeg
   social:
+    - { name: "facebook", link: "https://www.facebook.com/profile.php?id=100012402271218" }
     
 - name: 林立恩
   job: 教學
@@ -21,7 +22,7 @@
 - name: Ian 盧繹安
   job: 場器
   major: 會計所一
-  image: ian.jpg
+  image: ian.jpeg
   social:
     - { name: "facebook", link: "https://www.facebook.com/mark.lu.3367" }
     - { name: "instagram", link: "https://www.instagram.com/m27222137/" }
@@ -29,7 +30,7 @@
 - name: 黃振維
   job: 場器
   major: 會計四
-  image: anonymous.jpeg
+  image: ht.jpeg
   social:
     - { name: "facebook", link: "https://www.facebook.com/ansdyemperor" }
     
