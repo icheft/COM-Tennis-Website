@@ -8,7 +8,7 @@
         <div class="row text-center">
             {% for item in site.data.benefits %}
             <div class="item col-12 col-md-6 col-lg-4">
-                <div class="item-inner p-3 p-lg-4" data-aos="fade-up">
+                <div class="item-inner p-3 p-lg-4" data-aos="fade-up" data-aos-delay="{{ item.delay }}">
                     <div class="item-header mb-3">
                         <div class="item-icon"><i class="{{ item.icon }}"></i></div>
                         <h3 class="item-heading">{{ item.name }}</h3>
