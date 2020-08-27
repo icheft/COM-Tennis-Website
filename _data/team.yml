@@ -18,23 +18,28 @@
   image: anonymous.jpeg
   social:
     
-- name: 盧繹安
+- name: Ian 盧繹安
   job: 場器
   major: 會計所一
-  image: anonymous.jpeg
+  image: ian.jpg
   social:
+    - { name: "facebook", link: "https://www.facebook.com/mark.lu.3367" }
+    - { name: "instagram", link: "https://www.instagram.com/m27222137/" }
     
 - name: 黃振維
   job: 場器
   major: 會計四
   image: anonymous.jpeg
   social:
+    - { name: "facebook", link: "https://www.facebook.com/ansdyemperor" }
     
 - name: 郭芷伶
   job: 活動
   major: 會計二
   image: gzl.jpeg
   social:
+    - { name: "facebook", link: "https://www.facebook.com/profile.php?id=100002307100742" }
+    - { name: "instagram", link: "https://www.instagram.com/maggie_guo0516/" }
     
 - name: Lars 蕭溙辰
   job: 活動
@@ -45,6 +50,8 @@
 - name: 劉睿哲
   job: 財務
   major: 國企二
-  image: anonymous.jpeg
+  image: rz.png
   social:
+    - { name: "facebook", link: "https://www.facebook.com/rueiliu" }
+    - { name: "instagram", link: "https://www.instagram.com/sunny___0901/" }
     
