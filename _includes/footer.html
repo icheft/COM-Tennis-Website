@@ -19,15 +19,25 @@
 </footer>
    
 <!-- Javascript -->
+<!-- Magnific Popup core JS file -->
+
 <script src="/plugins/jquery-3.4.1.min.js"></script>
+<script src="/plugins/jquery.magnific-popup.js"></script>
 <script src="/plugins/popper.min.js"></script>
 <script src="/plugins/bootstrap/js/bootstrap.min.js"></script>  
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
+<script type="text/javascript">
 	AOS.init({
 		easing: 'ease-out-back',
 		duration: 1000
-	});
+    });
+    $(document).ready(function() {
+        $('.image-link').magnificPopup({type:'image'});
+    });
+    $('.popup-opt').magnificPopup({
+        type: 'image'
+        // other options
+    });
 </script>
 <script src="/plugins/jquery.scrollTo.min.js"></script>  
 <script src="/plugins/back-to-top.js"></script>  
