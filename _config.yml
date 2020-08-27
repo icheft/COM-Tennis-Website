@@ -28,6 +28,12 @@ github_username:  icheft
 
 trialForm: "#"
 
+teamDescription: >-
+  Talk with your racket, play with your heart. <br>
+  台大管理學院網球隊由一群喜歡網球的管院學生組成，<br>
+  在管院網不但可以學網球、和各系同學切磋球技，<br>
+  每學期還有許多有趣的活動可以參加喔！<br>
+
 # Build settings
 # plugins:
 #   - jekyll-feed

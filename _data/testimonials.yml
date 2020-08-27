@@ -1,19 +1,19 @@
+- name: Brian 陳立軒
+  title: 資管二，第8屆隊長
+  quote: 院網是一個能夠讓你打球的同時，認識其他管院朋友的好地方。教練人也超好的，如果例練後有在自己額外花時間練習，進步會很快。
+  image: brian.jpeg
+  hero: true
+- name: 江采嬪
+  title: 會計四 ，第5屆隊長
+  quote: 上大學前的暑假看到世大運的網球比賽，突然好想學網球！從0基礎開始，加入院網後每週大家一起打球，很快就學會了，甚至大二還當上了隊長！加入院網真的激發無限可能 XD
+  image: jcb.png
+  hero: true
 - name: Derek 盧德原
-  title: 資管二，COM Tennis 第七屆隊員
+  title: 資管二，第7屆隊員
   quote: 院網超好玩的！
   image: dereklu.jpg
   hero: true
   active: true
-- name: Brian 陳立軒
-  title: 資管二，COM Tennis 第八屆隊長
-  quote: 院網是一個能夠讓你打球的同時，認識其他管院朋友的好地方。教練人也超好的，如果例練後有在自己額外花時間練習，進步會很快。
-  image: brian.jpeg
-  hero: true
-- name: 匿名
-  title: 系級，在球隊的時間 / 職位
-  quote: 經驗分享區
-  image: anonymous.jpeg
-  hero: true
 - name: 匿名
   title: 系級，在球隊的時間 / 職位
   quote: 經驗分享區
