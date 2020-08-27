@@ -27,6 +27,7 @@ url: "https://2020ntucomtennis.now.sh" # the base hostname & protocol for your s
 github_username:  icheft
 
 trialForm: "#"
+googleAnalyticsID: UA-176392871-1
 
 teamDescription: >-
   Talk with your racket, play with your heart. <br>
