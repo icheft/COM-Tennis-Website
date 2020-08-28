@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">The site is built for 2020 NTU COM Tennis Team for the purpose of recruiting new team members.</h4>
+<h4 align="center">The site is built for 2020 NTU COM Tennis Team for the purpose of recruiting new team members. Follow us on <a href="https://www.facebook.com/ntucomtennis" target="_blank">@ntucomtennis</a>.</h4>
 
 <p align="center">
   <a href="#things-i-added">Things I Added</a> •
