@@ -1,4 +1,22 @@
-# 2020 NTU COM Tennis Team Official Recruit Website
+<h1 align="center">
+  <br>
+  <a href="https://2020ntucomtennis.now.sh/"><img src="/images/favicon/android-chrome-512x512.png" alt="@ntucomtennis" width="200"></a>
+  <br>
+  2020 NTU COM Tennis Team Official Recruiting Website
+  <br>
+</h1>
+
+<h4 align="center">The site is built for 2020 NTU COM Tennis Team for the purpose of recruiting new team members.</h4>
+
+<p align="center">
+  <a href="#things-i-added">Things I Added</a> •
+  <a href="#Original-Author--License">Original Author & License</a>
+</p>
+
+
+You are more than welcomed to join the team if you are one of the students in the College of Management, NTU.
+
+<hr>
 
 This site is heavily inspired by [Xiaoying Riley](https://twitter.com/3rdwave_themes)'s DevBook for developers theme. The original demo can be found [here](https://themes.3rdwavemedia.com/demo/devbook/).
 
