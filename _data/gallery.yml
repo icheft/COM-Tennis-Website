@@ -15,6 +15,10 @@
   source: practice-2.jpg
   delay: 100
 
+- size: 12
+  source: team.jpg
+  delay: 0
+
 - size: 6
   source: dinner-2.jpg
   delay: 0
