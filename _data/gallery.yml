@@ -24,13 +24,95 @@
   delay: 0
 - size: 6
   source: practice-3.jpg
-  delay: 0
+  delay: 100
 - size: 3
   source: practice-at-night-2.jpg
   delay: 0
 - size: 6
   source: practice-1.jpg
-  delay: 0
+  delay: 100
 - size: 3
   source: contest-1.jpg
+  delay: 200
+- size: 6
+  source: trip-25.jpg
   delay: 0
+- size: 6
+  source: trip-26.jpg
+  delay: 100
+
+- size: 8
+  source: trip-24.jpg
+  delay: 0
+- size: 4
+  source: trip-28.jpg
+  delay: 100
+
+- size: 5
+  source: trip-23.jpg
+  delay: 0
+- size: 7
+  source: trip-22.jpg
+  delay: 100
+
+- size: 3
+  source: trip-21.jpg
+  delay: 0
+- size: 6
+  source: trip-20.jpg
+  delay: 100
+- size: 3
+  source: trip-17.jpg
+  delay: 200
+- size: 4
+  source: trip-16.jpg
+  delay: 0
+- size: 8
+  source: trip-19.jpg
+  delay: 100
+
+- size: 3
+  source: trip-3.jpg
+  delay: 0
+- size: 5
+  source: trip-27.jpg
+  delay: 100
+- size: 4
+  source: trip-15.jpg
+  delay: 200
+- size: 12
+  source: trip-13.jpg
+  delay: 0
+
+- size: 6
+  source: trip-14.jpg
+  delay: 0
+- size: 3
+  source: trip-11.jpg
+  delay: 100
+- size: 3
+  source: trip-10.jpg
+  delay: 200
+- size: 2
+  source: trip-7.jpg
+  delay: 0
+- size: 5
+  source: trip-8.jpg
+  delay: 0
+- size: 5
+  source: trip-9.jpg
+  delay: 0
+
+- size: 9
+  source: trip-4.jpg
+  delay: 0
+- size: 3
+  source: trip-6.jpg
+  delay: 100
+
+- size: 7
+  source: trip-2.jpg
+  delay: 0
+- size: 5
+  source: trip-1.jpg
+  delay: 100
